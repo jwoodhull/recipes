@@ -30,14 +30,16 @@ Adapted from Cooks Illustrated.
 
 ## Directions
 
-1.  Grind the _A_ ingredients in a blender on high for _3_ minutes
-1.  Remove flour from blender
-    1.  Add _B_ to the blender
-    1.  Add _A_ flour back to the blender
-    1.  Blend on high for _3_ minutes. Maintain a vortex by changing the speed
-1.  Add _C_ to the blender and blend for _30_ seconds
-1.  Add _D_ to the blender. Blend for _15_ seconds
+1. Grind the _A_ ingredients in a blender on high for _3_ minutes
+1. Remove flour from blender
+    1. Add _B_ to the blender
+    1. Add _A_ flour back to the blender
+    1. Blend on high for _3_ minutes. Maintain a vortex by changing the speed
+1. Add _C_ to the blender and blend for _30_ seconds
+1. Add _D_ to the blender. Blend for _15_ seconds
 
 ## Cook
 
 Cook as normal on a griddle.
+
+Change to check my github
